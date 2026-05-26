@@ -1,0 +1,46 @@
+ALEX MORGAN
+alex.morgan@email.com | linkedin.com/in/alexmorgan | github.com/alexmorgan | San Francisco, CA
+
+SUMMARY
+Software engineer with 5 years of experience building backend services and data pipelines.
+Passionate about distributed systems and developer tooling.
+
+EXPERIENCE
+
+Senior Software Engineer — DataFlow Inc., San Francisco, CA (2022 – Present)
+• Built microservices in Python and Go handling 50M+ events per day
+• Led migration of legacy ETL jobs to Apache Spark, reducing processing time by 40%
+• Designed REST and gRPC APIs consumed by 3 internal teams
+• Mentored 2 junior engineers through code reviews and weekly 1:1s
+• Reduced on-call incident frequency by writing runbooks and improving observability
+
+Software Engineer — Streamline Corp., San Jose, CA (2020 – 2022)
+• Developed features for a SaaS analytics platform using Django and React
+• Integrated third-party data sources (Salesforce, HubSpot) via webhooks and polling
+• Wrote unit and integration tests achieving 82% code coverage
+• Participated in on-call rotation for production systems serving 2,000 customers
+
+Software Engineering Intern — TechStart LLC, Remote (Summer 2019)
+• Built internal tooling dashboard in Flask to track deployment metrics
+• Automated nightly report generation with Python scripts, saving 3 hours/week
+
+SKILLS
+Languages:  Python, Go, SQL, TypeScript, Bash
+Frameworks: Django, FastAPI, Flask, React, gRPC
+Data:       PostgreSQL, Redis, Kafka, Apache Spark, dbt, BigQuery
+Cloud:      AWS (EC2, S3, Lambda, RDS), GCP (BigQuery, GCS), Docker, Kubernetes
+Tools:      Git, GitHub Actions, Terraform, Datadog, PagerDuty
+
+EDUCATION
+B.S. Computer Science, University of California, Davis (2020)
+GPA: 3.6/4.0 | Dean's List
+
+PROJECTS
+Resume Screener (github.com/alexmorgan/screener)
+  Built an NLP pipeline using spaCy and sentence-transformers to rank resumes against JDs.
+  Deployed on AWS Lambda with a React frontend. 120 GitHub stars.
+
+Open-source contributions: 8 merged PRs to apache/airflow (DAG scheduling improvements).
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Associate (2023)
